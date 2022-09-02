@@ -37,7 +37,7 @@ int main()
         cout << "\t Precio unitario \n";
         cin >> precioUnitario;
         cout<< "\t Son todos los datos necesarios, gracias :) \n"<<endl;
-
+//falta imprimir el impuesto y total
         return main();
         break;
 
